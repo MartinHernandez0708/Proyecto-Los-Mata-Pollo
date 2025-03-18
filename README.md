@@ -1,7 +1,7 @@
 # Proyecto-Los-Mata-Pollo
 Proyecto para programacion basica
 
-#199f Administrador
+Administrador:
 
 Martín Aleandro Hernández Medina
 
